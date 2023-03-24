@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_border">#4285F4</color>
+    <color name="demarcation_line">#eeeeee</color>
+    <color name="dialog_text_color">#000000</color>
+    <color name="dialog_button_color">#000000</color>
+    <color name="dialog_text_link_color">#4285F4</color>
+</resources>

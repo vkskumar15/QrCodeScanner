@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="db_save">The code is stored in the database</string>
+    <integer name="viewfinder_border_width">4</integer>
+    <integer name="viewfinder_border_length">60</integer>
+
+    <string name="qr_dialog_label">Result</string>
+    <string name="qr_dialog_open_browser">Open in browser</string>
+    <string name="qr_dialog_search">Search the Internet</string>
+    <string name="qr_dialog_copy_clipboard">Copy to clipboard</string>
+    <string name="qr_dialog_save">Save to database</string>
+    <string name="apply_text">Ok</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="delete_text">Delete</string>
+    <string name="qr_from_file_error">Could not recognize the code from the file</string>
+</resources>
